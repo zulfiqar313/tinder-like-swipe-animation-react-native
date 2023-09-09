@@ -1,6 +1,6 @@
 Create a fun and interactive swipe animation app inspired by Tinder using React Native. This app allows users to swipe left or right on cards with smooth animations, making it an engaging user experience.
 
-![preview](https://github.com/zulfiqar313/tinder-like-swipe-animation-react-native/assets/69974518/d729ea2d-6c71-471a-ac26-27168232c306)
+![preview](https://github.com/zulfiqar313/tinder-like-swipe-animation-react-native/assets/69974518/b5f28509-8ff4-49f2-9cbd-43547c4dfb0b)
 
 ## Features
 
